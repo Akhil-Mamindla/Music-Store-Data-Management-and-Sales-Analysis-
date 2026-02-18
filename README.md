@@ -11,7 +11,7 @@ This project demonstrates practical application of SQL in solving real-world bus
 
 ##  Objectives
 
-- Analyze sales performance across different countries and cities  
+- Analyze sales performance across different countries and cities 
 - Identify top-selling genres, artists, and tracks  
 - Understand customer purchasing behavior  
 - Calculate revenue trends and customer spending patterns  
